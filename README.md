@@ -1,0 +1,2 @@
+# blacklist
+ActionFPS blacklist
