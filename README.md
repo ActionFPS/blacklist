@@ -16,3 +16,15 @@ Put them here for future reference.
 ## Question?
 
 Answer
+
+## Q1. What information to add in blacklist?
+Name, date, reason, ip. Then add text like this:
+-  // Name: unarmed
+-  // Ban date: 2017-04-16
+-  // Ban reason: fly hack & teleport
+-  11.22.33.44
+  
+  Then save. Add banned names in commit changes.
+  
+## Q2. 
+
