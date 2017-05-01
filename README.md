@@ -24,4 +24,4 @@ Name, date, reason, ip. Then add text like this:
   
 ## How long does it take to reload the blacklist?
 
-However long it takes the AC server to reload it + time taken to update the file (which is immediate)
+At most one minute (server re-reads the blacklist every minute) + time taken to update the file (which is immediate)
