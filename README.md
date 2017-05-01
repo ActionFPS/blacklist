@@ -13,11 +13,7 @@
 
 Put them here for future reference.
 
-## Question?
-
-Answer
-
-## Q1. What information to add in blacklist?
+## What information to add in blacklist?
 Name, date, reason, ip. Then add text like this:
 -  // Name: unarmed
 -  // Ban date: 2017-04-16
@@ -26,5 +22,6 @@ Name, date, reason, ip. Then add text like this:
   
   Then save. Add banned names in commit changes.
   
-## Q2. 
+## How long does it take to reload the blacklist?
 
+However long it takes the AC server to reload it + time taken to update the file (which is immediate)
