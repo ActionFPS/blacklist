@@ -25,3 +25,5 @@ Name, date, reason, ip. Then add text like this:
 ## How long does it take to reload the blacklist?
 
 At most one minute (server re-reads the blacklist every minute) + time taken to update the file (which is immediate)
+
+## How long does it take to reload the nickname blacklist?
