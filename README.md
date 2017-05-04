@@ -22,8 +22,6 @@ Name, date, reason, ip. Then add text like this:
   
   Then save. Add banned names in commit changes.
   
-## How long does it take to reload the blacklist?
+## How long does it take to reload the IP blacklist and the nickname blacklist?
 
-At most one minute (server re-reads the blacklist every minute) + time taken to update the file (which is immediate)
-
-## How long does it take to reload the nickname blacklist?
+At most one minute (server re-reads the blacklists every minute) + time taken to update the files (which is immediate)
