@@ -15,7 +15,7 @@ Put them here for future reference.
 
 ## What information to add in blacklist?
 
-Name, date, reason, ip. Then add text like this:
+Name, date, reason, IP. Then add text like this:
 
 ```
 // Name: unarmed
@@ -23,8 +23,8 @@ Name, date, reason, ip. Then add text like this:
 // Ban reason: fly hack & teleport
 11.22.33.44
 ```
-  
-Then save. Add banned names in commit changes.
+
+Add proof if you have it (`// Proof: http://link.to.demo`). If there are multiple IPs, keep them sorted. Then save. Add banned names in commit changes.
 
 ## How long does it take to reload the IP blacklist and the nickname blacklist?
 
